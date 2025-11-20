@@ -3,7 +3,7 @@ onnxruntime-gpu
 requirements-parser
 # opencv-contrib
 # Replace rembg with fork that removes numba dependency
-rembg[serverless] @ git+https://github.com/gazai-io/rembg.git@feat/remove-numba-for-serverless"
+rembg[serverless] @ git+https://github.com/gazai-io/rembg.git@feat/remove-numba-for-serverless
 imageio_ffmpeg
 rich
 rich_argparse
